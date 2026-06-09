@@ -1,1 +1,16 @@
-https://fragrant-amd2.aliphoenix4.workers.dev/sub?token=9ac82b9ef84f6614c972050f323c2ee2
+vless://edaa6eba-7916-44b1-8e4d-aedca093d5e9@104.18.91.168:2053?security=tls&type=ws&host=fragrant-amd2.aliphoenix4.workers.dev&fp=chrome&sni=fragrant-amd2.aliphoenix4.workers.dev&path=%2F&encryption=none#PHOENIXVPN1
+vless://edaa6eba-7916-44b1-8e4d-aedca093d5e9@104.17.213.8:2083?security=tls&type=ws&host=fragrant-amd2.aliphoenix4.workers.dev&fp=chrome&sni=fragrant-amd2.aliphoenix4.workers.dev&path=%2F&encryption=none#PHOENIXVPN2
+vless://edaa6eba-7916-44b1-8e4d-aedca093d5e9@104.18.41.92:2053?security=tls&type=ws&host=fragrant-amd2.aliphoenix4.workers.dev&fp=chrome&sni=fragrant-amd2.aliphoenix4.workers.dev&path=%2F&encryption=none#PHOENIXVPN3
+vless://edaa6eba-7916-44b1-8e4d-aedca093d5e9@104.16.245.191:443?security=tls&type=ws&host=fragrant-amd2.aliphoenix4.workers.dev&fp=chrome&sni=fragrant-amd2.aliphoenix4.workers.dev&path=%2F&encryption=none#PHOENIXVPN4
+vless://edaa6eba-7916-44b1-8e4d-aedca093d5e9@104.17.30.143:2083?security=tls&type=ws&host=fragrant-amd2.aliphoenix4.workers.dev&fp=chrome&sni=fragrant-amd2.aliphoenix4.workers.dev&path=%2F&encryption=none#PHOENIXVPN5
+vless://edaa6eba-7916-44b1-8e4d-aedca093d5e9@8.39.125.255:2087?security=tls&type=ws&host=fragrant-amd2.aliphoenix4.workers.dev&fp=chrome&sni=fragrant-amd2.aliphoenix4.workers.dev&path=%2F&encryption=none#PHOENIXVPN6
+vless://edaa6eba-7916-44b1-8e4d-aedca093d5e9@104.17.108.194:8443?security=tls&type=ws&host=fragrant-amd2.aliphoenix4.workers.dev&fp=chrome&sni=fragrant-amd2.aliphoenix4.workers.dev&path=%2F&encryption=none#PHOENIXVPN7
+vless://edaa6eba-7916-44b1-8e4d-aedca093d5e9@162.159.38.105:8443?security=tls&type=ws&host=fragrant-amd2.aliphoenix4.workers.dev&fp=chrome&sni=fragrant-amd2.aliphoenix4.workers.dev&path=%2F&encryption=none#PHOENIXVPN8
+vless://edaa6eba-7916-44b1-8e4d-aedca093d5e9@104.18.41.29:2087?security=tls&type=ws&host=fragrant-amd2.aliphoenix4.workers.dev&fp=chrome&sni=fragrant-amd2.aliphoenix4.workers.dev&path=%2F&encryption=none#PHOENIXVPN9
+vless://edaa6eba-7916-44b1-8e4d-aedca093d5e9@91.193.58.219:8443?security=tls&type=ws&host=fragrant-amd2.aliphoenix4.workers.dev&fp=chrome&sni=fragrant-amd2.aliphoenix4.workers.dev&path=%2F&encryption=none#PHOENIXVPN10
+vless://edaa6eba-7916-44b1-8e4d-aedca093d5e9@104.18.85.95:2096?security=tls&type=ws&host=fragrant-amd2.aliphoenix4.workers.dev&fp=chrome&sni=fragrant-amd2.aliphoenix4.workers.dev&path=%2F&encryption=none#PHOENIXVPN11
+vless://edaa6eba-7916-44b1-8e4d-aedca093d5e9@104.19.154.188:443?security=tls&type=ws&host=fragrant-amd2.aliphoenix4.workers.dev&fp=chrome&sni=fragrant-amd2.aliphoenix4.workers.dev&path=%2F&encryption=none#PHOENIXVPN12
+vless://edaa6eba-7916-44b1-8e4d-aedca093d5e9@198.41.209.104:2053?security=tls&type=ws&host=fragrant-amd2.aliphoenix4.workers.dev&fp=chrome&sni=fragrant-amd2.aliphoenix4.workers.dev&path=%2F&encryption=none#PHOENIXVPN13
+vless://edaa6eba-7916-44b1-8e4d-aedca093d5e9@172.66.0.126:2053?security=tls&type=ws&host=fragrant-amd2.aliphoenix4.workers.dev&fp=chrome&sni=fragrant-amd2.aliphoenix4.workers.dev&path=%2F&encryption=none#PHOENIXVPN14
+vless://edaa6eba-7916-44b1-8e4d-aedca093d5e9@104.17.178.210:443?security=tls&type=ws&host=fragrant-amd2.aliphoenix4.workers.dev&fp=chrome&sni=fragrant-amd2.aliphoenix4.workers.dev&path=%2F&encryption=none#PHOENIXVPN15
+vless://edaa6eba-7916-44b1-8e4d-aedca093d5e9@104.16.241.178:2053?security=tls&type=ws&host=fragrant-amd2.aliphoenix4.workers.dev&fp=chrome&sni=fragrant-amd2.aliphoenix4.workers.dev&path=%2F&encryption=none#PHOENIXVPN16
